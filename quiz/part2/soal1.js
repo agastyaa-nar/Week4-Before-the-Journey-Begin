@@ -22,7 +22,6 @@ function attack (damage) {
         totalDamage += attack(damagePerAttack);
     }
     return totalDamage;
-    
   }
   
   // TEST CASE
